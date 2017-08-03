@@ -32,6 +32,7 @@ docker run -d --name=home-assistant --net=host --rm \
 ### Other Containers
 
 #### MySQL
+Following example taken from raspberry pi. Find the appropriate docker image for your machine.
 
 ```bash
 # mysql
